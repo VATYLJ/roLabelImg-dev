@@ -1,0 +1,62 @@
+
+<annotation>
+    <filename>NW00049.jpg</filename>
+    <source>
+        <database>LDZJSDATASET</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>91</cx>
+        <cy>134</cy>
+        <w>82</w>
+        <h>103</h>
+        <angle>1.3845418011901238</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>148</cx>
+        <cy>211</cy>
+        <w>94</w>
+        <h>104</h>
+        <angle>-1.5500087552340243</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>124</cx>
+        <cy>41</cy>
+        <w>78</w>
+        <h>95</h>
+        <angle>1.4964249999780708</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+</annotation>

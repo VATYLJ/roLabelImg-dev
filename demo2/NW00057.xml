@@ -1,0 +1,30 @@
+
+<annotation>
+    <filename>NW00057.jpg</filename>
+    <source>
+        <database>LDZJSDATASET</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>147</cx>
+        <cy>141</cy>
+        <w>104</w>
+        <h>117</h>
+        <angle>-0.8285726300502069</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+</annotation>

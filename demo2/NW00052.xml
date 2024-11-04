@@ -1,0 +1,94 @@
+
+<annotation>
+    <filename>NW00052.jpg</filename>
+    <source>
+        <database>LDZJSDATASET</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>152</cx>
+        <cy>92</cy>
+        <w>63</w>
+        <h>73</h>
+        <angle>-1.2273583770663563</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>89</cx>
+        <cy>220</cy>
+        <w>73</w>
+        <h>77</h>
+        <angle>-1.2721266326976315</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>122</cx>
+        <cy>152</cy>
+        <w>65</w>
+        <h>75</h>
+        <angle>-1.2187540351807802</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>177</cx>
+        <cy>24</cy>
+        <w>57</w>
+        <h>73</h>
+        <angle>-1.263611743483812</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+<object>
+    <type>robndbox</type>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+        <cx>8</cx>
+        <cy>19</cy>
+        <w>16</w>
+        <h>36</h>
+        <angle>0.0022235485425223696</angle>
+    </robndbox>
+    <angle>0</angle>
+</object>
+
+</annotation>

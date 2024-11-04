@@ -1,0 +1,28 @@
+
+<annotation>
+    <filename>F00000.jpg</filename>
+    <source>
+        <database>LDZJSDATASET</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>687</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+<object>
+    <type>bndbox</type>
+    <name>4</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1</xmin>
+        <ymin>37</ymin>
+        <xmax>898</xmax>
+        <ymax>665</ymax>
+    </bndbox>
+</object>
+
+</annotation>
