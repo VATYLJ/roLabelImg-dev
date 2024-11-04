@@ -1,3 +1,7 @@
+- 项目原地址为：https://github.com/cgvict/roLabelImg
+- 修复画框报错闪退的问题
+
+
 roLabelImg
 ==========
 
